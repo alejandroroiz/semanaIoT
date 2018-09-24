@@ -7,9 +7,13 @@ Este será el repositorio donde guardemos todo el código que utilizaremos.
 Ligas útiles:
 
 Github:  https://desktop.github.com
+
 Repositorio:  git@github.com:alejandroroiz/semanaIoT.git
+
 Arduino IDE:  https://www.arduino.cc/en/Main/Software
+
 Libreria ESP8266:  http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 
 Ligar Libreria ESP con Arduino IDE:
 
