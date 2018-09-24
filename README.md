@@ -4,7 +4,8 @@ Bienvenidos a la semana IoT!
 
 Este será el repositorio donde guardemos todo el código que utilizaremos.
 
-Ligas útiles:
+##Ligas útiles:
+
 
 Github:  https://desktop.github.com
 
@@ -13,6 +14,10 @@ Repositorio:  git@github.com:alejandroroiz/semanaIoT.git
 Arduino IDE:  https://www.arduino.cc/en/Main/Software
 
 Libreria ESP8266:  http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Sublime Tex: https://www.sublimetext.com/3
+
+This is [an example](http://example.com/ "Title") inline link.
 
 
 Ligar Libreria ESP con Arduino IDE:
