@@ -7,7 +7,7 @@ Este será el repositorio donde guardemos todo el código que utilizaremos.
 ##Ligas útiles:
 
 
-Github:  https://desktop.github.com
+[Github] (https://desktop.github.com)
 
 Repositorio:  git@github.com:alejandroroiz/semanaIoT.git
 
