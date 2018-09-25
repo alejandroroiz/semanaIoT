@@ -1,4 +1,4 @@
-int LED = D0;
+int LED = D6;
 int PIR_INPUT = D1;
 
 void setup(){
