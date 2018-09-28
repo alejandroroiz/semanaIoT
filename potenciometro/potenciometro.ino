@@ -1,7 +1,7 @@
 const int pin = A0;
 
 void setup() {
-  // put your setup code here, to run once:
+  // put your setup code he re, to run once:
   Serial.begin(9600);
 }
 
